@@ -39,12 +39,9 @@ A interface é intuitiva e organizada em **três telas principais**:
 - 🔄 Alternância entre foco, pausa curta e pausa longa
 - 🎨 Interface que muda de acordo com o modo selecionado
 - 📱 Layout limpo e fácil de usar
-<!-- ✏️ Ajuste esta lista com o que o SEU app realmente faz. Exemplos comuns:
 - 🎵 Música ambiente para ajudar na concentração
 - ▶️ Botão iniciar/pausar
 - 🔔 Alerta sonoro ao fim do tempo
-- ✅ Lista de tarefas
--->
 
 ## 🛠️ Tecnologias
 
